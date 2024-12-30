@@ -1,6 +1,6 @@
 # CODTECH-Task1
 Name: JANGAM PRASHANTH
-Company: COOTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 ID: CT08FEL
 Domain: Full Stack Development
 Duration: December 20 to January 20, 2025
